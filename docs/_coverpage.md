@@ -3,4 +3,4 @@
 > 技术知识整理
 
 [GitHub](https://github.com/yikun1025/Documentation)
-[Get Started](quick-start.md)
+[Get Started](/quick-start)
