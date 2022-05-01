@@ -3,5 +3,5 @@
 
 > 技术知识整理
 
-[GitHub](https://crispyguoba.github.io/Furiends_backend_documentation/)
+[GitHub](https://github.com/yikun1025/Documentation)
 [Get Started](/quick-start)
