@@ -51,7 +51,7 @@ public class Application extends SpringBootServletInitializer {
 @RequestMapping("/admin")  
 @Validated  
 public class AdminAdminController {
-  ...
+    ...
 }
 ```
 
@@ -73,7 +73,7 @@ mv.addObject("username", "guoba");
 ```
 <!DOCTYPE html>
 <body>
-  <h1>欢迎${username}</h1>
+    <h1>欢迎${username}</h1>
 </body>
 </html>
 ```
